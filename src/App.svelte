@@ -99,7 +99,7 @@
 
 <style>
   .arco {
-    background-image: url('./images/graf.svg');
+    background-image: url('../images/graf.svg');
     background-size: cover;
     background-position: center;
     background-color: white;
